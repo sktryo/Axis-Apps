@@ -1,0 +1,13 @@
+body {
+    background-color: #1E2768;
+    color: #FFFFFF;
+}
+
+button {
+    border-radius: 5px;
+    background-color: #F47601;
+    color: #FFFFFF;
+}
+.no-enter {
+  margin-right: 10px;
+}
